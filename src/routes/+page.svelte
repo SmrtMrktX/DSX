@@ -12,7 +12,14 @@
 </script>
 
 <main class="container">
+  <div class="row">
+    <a href="https://smx.tn" target="_blank">
+      <img src="/favicon.png" class="logo vite" alt="smx Logo" />
+    </a>
+ 
+  </div>
   <h1>SMRT MRKT X © OFFICIAL DESKTOP APP</h1>
+  
   
 
   <div class="row">
