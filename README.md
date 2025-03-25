@@ -33,3 +33,15 @@
 #### npm run tauri dev
 
 #### npm run tauri build
+
+<hr>
+
+<h2 align="center">SCREENSHOTS</h2>
+
+## root
+
+<img src="src/lib/images/git/root.png" alt="root screenshot" >
+
+## about
+
+<img src="src/lib/images/git/about.png" alt="about screenshot" >
