@@ -45,3 +45,7 @@
 ## about
 
 <img src="src/lib/images/git/about.png" alt="about screenshot" >
+
+## home
+
+<img src="src/lib/images/git/home.png" alt="home screenshot" >
