@@ -1,6 +1,14 @@
+<script>
+  </script>
+  
+
 <div class="container">
-    <div class="">HOME</div>
+    <div class="">Home</div>
+
 </div>
+
+
+
 
 
 
