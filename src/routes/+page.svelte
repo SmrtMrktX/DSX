@@ -14,8 +14,8 @@
 <main class="container min-h-screen">
 
   <div class="row">
-    <a href="https://smx.tn" target="_blank">
-      <img src="/favicon.png" class="logosmx" alt="smx Logo" />
+    <a href="https://smx.tn" target="_blank" >
+      <img src="/favicon.png" class="logosmx border-b-6 border-green-600" alt="smx Logo" />
     </a>
  
   </div>
@@ -62,7 +62,7 @@
 
 .logosmx {
   height: 10em;
-  padding: 1.5em;
+  margin: 1.5em;
 }
 
 .logo {
@@ -93,6 +93,7 @@ a:hover {
 
 h1 {
   text-align: center;
+  margin: 1em;
 }
 
 input,

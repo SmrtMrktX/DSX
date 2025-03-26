@@ -9,7 +9,7 @@
     <div class=" mx-auto flex justify-between items-center h-full px-6">
         <!-- LOGO -->
         <a href="/" class="w-12 border-b-4 border-green-500">
-            <img src={smxlogo} alt="smx logo" class="object-cover object-center">
+            <img src={smxlogo} alt="smx logo" class="object-cover object-center border-b-2 border-green-600">
         </a>
 
         <!-- NAV LINKS -->
