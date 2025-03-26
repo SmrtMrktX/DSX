@@ -4,9 +4,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow: hidden;
+  overflow: auto;
   background-image: url("./lib/images/home/wavy-lines.svg");
-  background-size: cover;
+  background-attachment: fixed;
+  background-size: cover; /* Optional, makes the background cover the whole viewport */
+  background-position: center;
   user-select: none;
   background-repeat: no-repeat;
 }
