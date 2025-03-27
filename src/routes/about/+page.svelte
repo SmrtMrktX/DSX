@@ -10,7 +10,7 @@ import smxLogo from '$lib/images/logo/smx.png';
 
 
 	<header class=" justify-center m-auto py-10 text-center">
-		<img class=" rounded-t-sm border-b-4 border-green-500" src={smxLogo} alt="smx logo" />
+		<img class=" rounded-t-sm" src={smxLogo} alt="smx logo" />
 	</header>
 
 	<section class=" px-4 py-12 text-center">
