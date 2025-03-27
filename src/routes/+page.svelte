@@ -47,7 +47,7 @@
   </form>
   <p>{greetMsg}</p>
 
-  <a href="/home" class="mt-20 mx-auto text-2xl"><button style="background-color: blue; color: white;">Get Started</button></a>
+  <a href="/home" class="mt-20 mx-auto text-2xl"><button style="background-color: black; color: white;">Get Started</button></a>
 </main>
 
 <style>
