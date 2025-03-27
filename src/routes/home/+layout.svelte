@@ -5,8 +5,8 @@
     import linkedinlogo from '$lib/images/social/linkedin.png'
     import githublogo from '$lib/images/social/github.png'
 </script>
-<nav class="fixed  top-0 left-0 w-full h-20  m-auto place-items-center  z-50 ">
-    <div class=" mx-auto flex justify-between items-center h-full px-6 backdrop-blur-sm  bg-transparent dark:backdrop-blur-sm	 dark:bg-transparent shadow-md ">
+<nav class="fixed  top-0 left-0 w-full h-20 z-50 ">
+    <div class=" flex justify-between items-center h-full px-6 backdrop-blur-sm  bg-transparent dark:backdrop-blur-sm	 dark:bg-transparent shadow-md ">
         <!-- LOGO -->
         <a href="/" class="w-12">
             <img src={smxlogo} alt="smx logo" class="object-cover object-center">
