@@ -8,12 +8,12 @@
 <nav class="fixed  top-0 left-0 w-full h-20  m-auto place-items-center  z-50 ">
     <div class=" mx-auto flex justify-between items-center h-full px-6 backdrop-blur-sm  bg-transparent dark:backdrop-blur-sm	 dark:bg-transparent shadow-md ">
         <!-- LOGO -->
-        <a href="/" class="w-12 border-b-4 border-green-500">
-            <img src={smxlogo} alt="smx logo" class="object-cover object-center border-b-2 border-green-600">
+        <a href="/" class="w-12">
+            <img src={smxlogo} alt="smx logo" class="object-cover object-center">
         </a>
 
         <!-- NAV LINKS -->
-        <ul class="flex gap-16 font-bold ">
+        <ul class="flex gap-16 font-bold">
             <li><a href="/home" class=" "><svg class="w-6 h-6 text-gray-800 dark:text-white hover:text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m4 12 8-8 8 8M6 10.5V19a1 1 0 0 0 1 1h3v-3a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3h3a1 1 0 0 0 1-1v-8.5"/>
               </svg></a></li>
@@ -37,7 +37,7 @@
         </ul>
 
         <!-- SOCIAL LINKS -->
-        <ul class="flex gap-4 ">
+        <ul class="flex gap-4">
             <li>
                 <a href="https://www.facebook.com/smrtmrktx" target="_blank"
                     class="w-8 h-8 grid place-items-center rounded-full hover:shadow-lg">
