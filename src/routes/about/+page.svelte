@@ -9,11 +9,11 @@ import smxLogo from '$lib/images/logo/smx.png';
 <div class="container myabout">
 
 
-	<header class=" justify-center m-auto py-10 text-center">
+	<header class=" justify-center m-auto py-6 text-center">
 		<img class=" rounded-t-sm" src={smxLogo} alt="smx logo" />
 	</header>
 
-	<section class=" px-4 py-12 text-center">
+	<section class=" px-4 py-10 text-center">
 		<h2 class="text-2xl font-bold">Mission And Values</h2>
 		<p class="mx-auto mt-4 max-w-3xl tracking-wider">
 			Our mission is to revolutionize digital marketplaces by offering seamless access, reliable
