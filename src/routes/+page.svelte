@@ -15,7 +15,7 @@
 
   <div class="row">
     <a href="https://smx.tn" target="_blank" >
-      <img src="/favicon.png" class="logosmx" alt="smx Logo" />
+      <img src="/favicon.png" class="logosmx rounded-2xl" alt="smx Logo" />
     </a>
  
   </div>
