@@ -9,7 +9,7 @@
     <div class=" flex justify-between items-center h-full px-6 backdrop-blur-sm  bg-transparent dark:backdrop-blur-sm	 dark:bg-transparent shadow-md ">
         <!-- LOGO -->
         <a href="/" class="w-12">
-            <img src={smxlogo} alt="smx logo" class="object-cover object-center">
+            <img src={smxlogo} alt="smx logo" class="rounded-xl object-cover object-center">
         </a>
 
         <!-- NAV LINKS -->
